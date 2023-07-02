@@ -38,7 +38,7 @@
 /**设置文字颜色    默认为白色*/
 + (void)setTextColor:(UIColor *)textColor;
 
-
+//hahah
 
 
 @end
